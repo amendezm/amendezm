@@ -48,11 +48,12 @@ With more than four years of experience. Skilled in HTML, CSS, Javascript, TypeS
 
 ## 📈 Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amendezm&theme=dracula" alt="amendezm" width="76%" /></div>
-
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=amendezm&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 </div>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amendezm&theme=dracula" alt="amendezm" width="76%" /></div>
+
 
 ## 🔗 Links
 
