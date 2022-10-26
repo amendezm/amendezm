@@ -49,6 +49,7 @@ With more than four years of experience. Skilled in HTML, CSS, Javascript, TypeS
 ## 📈 Stats
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=amendezm&theme=algolia" alt="amendezm" width="76%" /></div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amendezm&theme=algolia)](https://git.io/streak-stats)
 
 <br/>
 <div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=amendezm.amendezm" alt="visitors"></div>
