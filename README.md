@@ -7,7 +7,7 @@
 
 I'm Alexis Mendez, a **Front End Web Developer** (specialized in **React Applications**).
 
-With more than four years of experience. Skilled in HTML, CSS, Javascript, TypeScript, React, Redux, Angular and RxJS. Strong engineering professional with an Engineer's degree focused in Informatics from University of Holguín. Passionate about learning new skills and eager to tackle more complex problems. Adept at contributing to a highly collaborative work environment and finding solutions.
+With **5+** years of experience. Skilled in HTML, CSS, Javascript, TypeScript, React, Redux and NextJS. Strong engineering professional with an Engineer's degree focused in Informatics from University of Holguín. Passionate about learning new skills and eager to tackle more complex problems. Adept at contributing to a highly collaborative work environment and finding solutions.
 
 ## 🛠️ Skills
 
