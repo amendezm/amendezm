@@ -1,7 +1,7 @@
 ![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/26444448/177571943-e8588131-e39b-4f14-a2a7-5f95ea78b2d2.png)
 
 
-# Hello there! 👋
+# Hello there 👋
 
 ## 🚀 About Me
 
