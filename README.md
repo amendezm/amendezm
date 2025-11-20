@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm Alexis Méndez, a frontend developer with a passion for creating beautiful and user-friendly interfaces. With **6+ years** of experience working with HTML, CSS, JavaScript, and TypeScript, I have honed my skills in creating intuitive and engaging websites. I specialize in **React** and **Next.js** and enjoy building dynamic, responsive applications. I am committed to writing clean, efficient code and staying up to date with the latest trends and best practices. Let's collaborate and build something great together!
+I'm Alexis Méndez, a frontend developer with a passion for creating beautiful and user-friendly interfaces. With **7+ years** of experience working with HTML, CSS, JavaScript, and TypeScript, I have honed my skills in creating intuitive and engaging websites. I specialize in **React** and **Next.js** and enjoy building dynamic, responsive applications. I am committed to writing clean, efficient code and staying up to date with the latest trends and best practices. Let's collaborate and build something great together!
 
 ## 🛠️ Skills
 
